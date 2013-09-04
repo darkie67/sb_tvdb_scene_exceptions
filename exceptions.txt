@@ -216,3 +216,4 @@
 104641: 'Bored to death','Zu Tode gelangweilt',
 101501: 'Ancient Aliens', 'Ancient Aliens Unerklaerliche Phaenomene',
 82459: 'The Mentalist','Mentalist','Gedankenleser',
+80367: 'Damages','Damages - Im Netz der Macht',

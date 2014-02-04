@@ -217,3 +217,8 @@
 101501: 'Ancient Aliens', 'Ancient Aliens Unerklaerliche Phaenomene',
 82459: 'The Mentalist','Mentalist','Gedankenleser',
 80367: 'Damages','Damages - Im Netz der Macht',
+267970: 'Crossing Lines',
+72248: 'Zurueck in die Vergangenheit',
+263365: 'Marvels Agents of S H I E L D', 'Marvel Agents Of SHIELD', 'Agents of S H I E L D',
+267206: 'Low Winter Sun', 'Low Winter Sun US', 'Low Winter Sun (US)',
+250487: 'American Horror Story', 'American Horror Story Coven', 'American Horror Story Asylum', 'American Horror Story - Die dunkle Seite in dir',

@@ -5,7 +5,6 @@
 120541: 'Russell Howards Good News', 'Russell Howards Good News (UK)',
 122281: 'Garrow\'s Law - Tales from the Old Bailey', 'Garrows Law',
 129261:  'Spartacus', 'Spartacus Blood and Sand', 'Spartacus Vengeance',
-131791: 'Sci-Fi Science',
 131791: 'Sci-Fi Science: Physics of the Impossible', 'Sci Fi Science Physics of the Impossible ', 'Science oder Fiction',
 139681: 'The Smoking Gun Presents: The World\'s Dumbest', 'World\'s Dumbest',
 139941: 'Childrens Hospital (US)', 'Childrens Hospital',

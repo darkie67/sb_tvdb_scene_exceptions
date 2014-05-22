@@ -148,7 +148,7 @@
 75393: 'The X Factor (AU)', 'The X Factor Australia',
 75477: 'Chip & Chap', 'Chip und Chap', 'Chip und Chap - Die Ritter des Rechts',
 75567: 'The Xtra Factor', 'The Xtra Factor UK',
-75692: 'Law & Order: SVU', 'Law and Order: New York','Law und Order Special Victims Unit','Law & Order - Special Victims Unit',
+75692: 'Law & Order: SVU', 'Law and Order: New York','Law und Order Special Victims Unit','Law & Order - Special Victims Unit','Law & Order-SVU',
 76119: 'NOVA', 'PBS NOVA',
 76133: 'Poirot', 'Agatha Christie\'s Poirot', 'Agatha Christie Poirot',
 76168: 'Batman: The Animated Series', 'Batman: TAS',

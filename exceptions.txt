@@ -217,3 +217,4 @@
 267260: 'Intelligence', 'Intelligence (2014)',
 187881: 'Die Borgias', 'Die Borgias Sex Macht Mord Amen',
 76290: '24','24 - Live another day',
+72449: 'Stargate SG-1','Stargate SG1',

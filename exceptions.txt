@@ -63,7 +63,7 @@
 248618: 'The Amazing Race Australia', 'The Amazing Race AU',
 248789: 'Smash (2012)', 'Smash',
 248812: 'Dont Trust the Bitch in Apartment 23', 'Apartment 23',
-248834: 'Last Man Standing (2011)', 'Last Man Standing US', ' Last Man Standing',
+248834: 'Last Man Standing (2011)', 'Last Man Standing US', 'Last Man Standing',
 248835: 'Once Upon A Time', 'Once Upon A Time (2011)', 'Once Upon A Time - Es war einmal...', 'Once Upon A Time - Es war einmal', 'Once Upon A Time Es war einmal',
 248836: 'The river',
 248935: 'Touch (2012)', 'Touch',

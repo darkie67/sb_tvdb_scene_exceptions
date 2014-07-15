@@ -220,3 +220,6 @@
 72449: 'Stargate SG-1','Stargate SG1',
 248842: 'Suburgatory', 'Suborgatory',
 167571: 'Happy Endings', 'happyendings',
+73893: 'Star Trek - Enterprise', 'Star Trek: Enterprise', 'Star Trek Enterprise'
+264030: 'Avengers Assemble', 'Avengers Assemble (2013)', 'Marvel\'s Avengers Assemble', 'Avengers (2013)',
+270915: 'Peaky Blinders', 'Peaky Blinders Gangs of Birmingham',

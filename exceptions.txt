@@ -219,3 +219,4 @@
 76290: '24','24 - Live another day',
 72449: 'Stargate SG-1','Stargate SG1',
 248842: 'Suburgatory', 'Suborgatory',
+167571: 'Happy Endings', 'happyendings',

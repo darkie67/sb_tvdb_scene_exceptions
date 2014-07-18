@@ -223,4 +223,4 @@
 73893: 'Star Trek - Enterprise', 'Star Trek: Enterprise', 'Star Trek Enterprise'
 264030: 'Avengers Assemble', 'Avengers Assemble (2013)', 'Marvel\'s Avengers Assemble', 'Avengers (2013)',
 270915: 'Peaky Blinders', 'Peaky Blinders Gangs of Birmingham',
-17878: 'Heartland', 'Heartland Ein Paradies fuer Pferde', 'Heartland - Ein Paradies fuer Pferde',
+17878: 'Heartland', 'Heartland Ein Paradies fuer Pferde', 'Heartland - Ein Paradies fuer Pferde', 'Heartland - Paradies fuer Pferde',

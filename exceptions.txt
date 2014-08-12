@@ -211,7 +211,7 @@
 90651: 'Selling Houses Australia', 'Selling Houses Australia Extreme',
 92361: 'Known Universe', 'National Geographic Known Universe','Unser Universum', 'Unser Universum Entdecke die Grenzen des Unbekannten',
 94551: 'Parenthood (2010)', 'Parenthood',
-95441: 'NCIS: Los Angeles', 'NCIS LA','Navy CIS - NCIS Los Angeles',
+95441: 'NCIS: Los Angeles', 'NCIS LA','Navy CIS - NCIS Los Angeles', 'Navy CIS L A',
 95491: 'Vampire Diaries', 'The Vampire Diaries',
 97731: 'Tosh.0', 'Tosh 0',
 267260: 'Intelligence', 'Intelligence (2014)',

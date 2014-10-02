@@ -10,7 +10,7 @@
 139941: 'Childrens Hospital (US)', 'Childrens Hospital',
 140141: 'Undercover Boss (US)', 'Undercover Boss US',
 145541: 'The Marriage Ref', 'The Marriage Ref US',
-148581: 'Strike Back', 'Strike Back Project Dawn', 'Strike Back 2011', 'Strike Back Vengeance',
+148581: 'Strike Back', 'Strike Back Project Dawn', 'Strike Back 2011', 'Strike Back Vengeance', 'Strike Back Shadow Warfare',
 149101: 'A League of Their Own (2010)' A League of Their Own UK',
 152831: 'Adventure Time with Finn and Jake', 'Adventure Time',
 155201: 'Louie (2010)', 'Louie',

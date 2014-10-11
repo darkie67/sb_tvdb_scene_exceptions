@@ -228,4 +228,4 @@
 252312: 'Jessie', 'Jessie 2011',
 249361: 'Boss', 'Vorgesetzter',
 276312: 'From Dusk till dawn the series', 'From Dusk till Dawn',
-281342: 'Gomorrha - die Serie', 'Gomorrha',
+281342: 'Gomorrha - die Serie', 'Gomorrha', 'Gomorrha die Serie',

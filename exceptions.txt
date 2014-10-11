@@ -219,7 +219,6 @@
 76290: '24','24 - Live another day',
 72449: 'Stargate SG-1','Stargate SG1',
 248842: 'Suburgatory', 'Suborgatory',
-167571: 'Happy Endings', 'happyendings',
 73893: 'Star Trek - Enterprise', 'Star Trek: Enterprise', 'Star Trek Enterprise'
 264030: 'Avengers Assemble', 'Avengers Assemble (2013)', 'Marvel\'s Avengers Assemble', 'Avengers (2013)',
 270915: 'Peaky Blinders', 'Peaky Blinders Gangs of Birmingham',
@@ -229,7 +228,4 @@
 252312: 'Jessie', 'Jessie 2011',
 249361: 'Boss', 'Vorgesetzter',
 276312: 'From Dusk till dawn the series', 'From Dusk till Dawn',
-82459: 'The Mentalist', 'thementalist',
-256111: 'Saving Hope', 'sh',
-247773: 'Switched at birth', 'sab',
 281342: 'Gomorrha - die Serie', 'Gomorrha',

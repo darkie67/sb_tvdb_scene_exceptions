@@ -116,7 +116,7 @@
 71256: 'The Daily Show',
 71256: 'The Daily Show', 'The Daily Show with Jon Stewart',
 71470: 'Star Trek: The Next Generation', 'Star Trek TNG',
-71489: 'Law & Order: Criminal Intent', 'Law & Order: CI', ‘Criminal Intent’,
+71489: 'Criminal Intent - Verbrechen im Visier', 'Law & Order: Criminal Intent', 'Law & Order: CI', ‘Criminal Intent’
 71635: 'Ein Kaefig voller Helden',
 71699: 'The Outer Limits (1963)',
 71985: 'Taboo', 'National Geographic Taboo',

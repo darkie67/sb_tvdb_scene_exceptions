@@ -234,3 +234,4 @@
 262536: 'Heiter bis toedlich - Akte Ex', 'Akte Ex',
 248841: 'Scandal', 'Scandal US',
 81625: 'Marco Polo', 'Marco Polo (2014)',
+269650: 'Resurrection', 'Resurrection US',

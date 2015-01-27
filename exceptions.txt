@@ -236,3 +236,4 @@
 81625: 'Marco Polo', 'Marco Polo (2014)',
 269650: 'Resurrection', 'Resurrection US',
 256227: 'The Newsroom 2012',
+249882: 'Awkward - Mein sogenanntes Leben', 'Awkward',

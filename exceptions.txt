@@ -142,7 +142,7 @@
 74512: 'Wife Swap (US)',
 74626: 'The X Factor', 'The X Factor UK',
 74768: 'The Block', 'The Block AU',
-74845: 'Weeds', 'Weeds Kleine Deals unter Nachbarn',
+74845: 'Weeds', 'Weeds Kleine Deals unter Nachbarn', 'Weeds - Kleine Deals unter Nachbarn',
 74897:  'Hell\'s Kitchen (US)', 'Hells Kitchen US',
 75088: 'David Letterman',
 75393: 'The X Factor (AU)', 'The X Factor Australia',

@@ -242,4 +242,5 @@
 285507: 'The Code', 'The Code AU', 'The Code (AU)',
 259054: 'Mistresses', 'Mistresses US', 'Mistresses (US)',
 279121: 'The Flash', 'Flash',
-272135: 'Turn Washington\’s Spies', 'Turn: Washington\’s Spies', 'Turn',
+272135: 'Turn Washington\'s Spies', 'Turn: Washington\'s Spies', 'Turn',
+281662: 'Marvel\'s Daredevil', 'Marvels Daredevil', 'Daredevil',

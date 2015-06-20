@@ -245,7 +245,7 @@
 279214: 'Secrets and Lies (US)', 'Secrets and Lies US',
 101501: 'Ancient Aliens - Unerklaerliche Phaenomene', 'Ancient Aliens Unerklaerliche Phaenomene',
 276312: 'From Dusk Till Dawn', 'From Dusk Till Dawn: The Series',
-281709: 'The Librarians (2014)', 'The Librarians (US)', 'The Librarians US', 'The Quest-Die Serie', 'The Quest Die Serie',
+281709: 'The Librarians (2014)', 'The Librarians (US)', 'The Librarians US', 'The Quest-Die Serie', 'The Quest Die Serie', 'The Librarians US (The Quest)',
 80621: 'Secret Diary Of A Call Girl', 'Secret Diary of a Call Girl - Gestaendnisse einer Edelhure',
 258823: 'Revolution', 'Revolution 2012',
 269159: 'The Musketeers', 'Die Musketiere',

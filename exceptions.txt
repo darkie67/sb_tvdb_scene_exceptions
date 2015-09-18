@@ -255,3 +255,4 @@
 281708: 'Proof', 'Proof US', 'Proof (US)',
 276562: 'Power', 'Power 2014','Power (2014)',
 70522: 'Farscape', 'Farscape Verschollen im All', 'Farscape - Verschollen im All',
+77537: 'Hoer mal, wer da haemmert', 'Home Improvement', 'Hoer mal wer da haemmert', 'Hoer mal, wer da haemmert!',

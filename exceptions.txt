@@ -257,3 +257,4 @@
 70522: 'Farscape', 'Farscape Verschollen im All', 'Farscape - Verschollen im All',
 77537: 'Hoer mal, wer da haemmert', 'Home Improvement', 'Hoer mal wer da haemmert', 'Hoer mal, wer da haemmert!',
 74922: 'Crossing Jordan - Pathologin mit Profil', 'Crossing Jordan', 'Crossing Jordan Pathologin mit Profil',
+290853: 'Fear the walking dead', 'Fear the walking D3ad', 

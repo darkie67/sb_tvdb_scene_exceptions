@@ -16,7 +16,7 @@
 155201: 'Louie (2010)', 'Louie',
 156771: 'National Geographic Shark Men'
 159431: 'Saeulen der Erde', 'Die Saeulen der Erde',
-161461: 'Rizzoli & Isles', 'Rizzoli and Isles', 'Rizzoli und Isles',
+161461: 'Rizzoli & Isles', 'Rizzoli and Isles', 'Rizzoli und Isles',da
 161511: 'Shameless', 'Shameless US',
 164451: 'Carlos (2010)',
 164501: 'Mike und Molly', 'Mike und Molly',
@@ -262,3 +262,6 @@
 290174: 'Der gestiefelte Kater', 'Der gestiefelte Kater - Abenteuer in San Lorenzo', 'Der gestiefelte Kater Abenteuer in San Lorenzo',
 290329: 'The adventures of Captain Alatriste', 'Capitan Alatriste', 'Die Abenteuer des Captain Alatriste - Mit Dolch und Degen', 'Die Abenteuer des Captain Alatriste Mit Dolch und Degen'
 251633: 'Profugos', 'Profugos Auf der Flucht', 'Profugos - Auf der Flucht',
+257645: 'Ultimate Spiderman', 'Ultimate Spiderman Web Warriors', 'Ultimate Spider-Man', 'Ultimate Spider-Man Web Warriors',
+284190: 'Marvels Jessica Jones', 'Jessica Jones', 'AKA Jessica Jones', 'Marvels AKA Jessica Jones',
+267543: 'Marvels Hulk and the Agente of S.M.A.S.H.', 'Marvels Hulk and the Agents of SMASH', 'Hulk and the Agents of S.M.A.S.H.', 'Hulk and the Agents of SMASH',

@@ -263,7 +263,8 @@
 290329: 'The adventures of Captain Alatriste', 'Capitan Alatriste', 'Die Abenteuer des Captain Alatriste - Mit Dolch und Degen', 'Die Abenteuer des Captain Alatriste Mit Dolch und Degen'
 251633: 'Profugos', 'Profugos Auf der Flucht', 'Profugos - Auf der Flucht',
 257645: 'Ultimate Spiderman', 'Ultimate Spiderman Web Warriors', 'Ultimate Spider-Man', 'Ultimate Spider-Man Web Warriors',
-284190: 'Marvels Jessica Jones', 'Jessica Jones', 'AKA Jessica Jones', 'Marvels AKA Jessica Jones',
+284190: 'Marvels Jessica Jones', 'Jessica Jones', 'AKA Jessica Jones', 'Marvels AKA Jessica Jones','Marvel\'s Jessica Jones',
 267543: 'Marvels Hulk and the Agents of S.M.A.S.H.', 'Marvels Hulk and the Agents of SMASH', 'Hulk and the Agents of S.M.A.S.H.', 'Hulk and the Agents of SMASH',
 291517: 'Agent X', 'Agent X US', 'Agent X (US)',
 269897: 'Sirens', 'Sirens US', 'Sirens (US)',
+293614: 'Marvels Guardians of the Galaxy', 'Guardians of the Galaxy', 'Marvel\'s Guardians of the Galaxy',

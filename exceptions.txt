@@ -268,3 +268,4 @@
 291517: 'Agent X', 'Agent X US', 'Agent X (US)',
 269897: 'Sirens', 'Sirens US', 'Sirens (US)',
 293614: 'Marvels Guardians of the Galaxy', 'Guardians of the Galaxy', 'Marvel\'s Guardians of the Galaxy',
+283761: 'Kingdom (2014)', 'Kingdom 2014',

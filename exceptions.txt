@@ -269,4 +269,4 @@
 269897: 'Sirens', 'Sirens US', 'Sirens (US)',
 293614: 'Marvels Guardians of the Galaxy', 'Guardians of the Galaxy', 'Marvel\'s Guardians of the Galaxy',
 283761: 'Kingdom (2014)', 'Kingdom 2014',
-278125: 'NCIS: New Orleans', 'Navy CIS New.Orleans',
+278125: 'NCIS: New Orleans', 'Navy CIS New Orleans', 'NCIS New Orleans',

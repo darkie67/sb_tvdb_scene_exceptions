@@ -270,3 +270,4 @@
 293614: 'Marvels Guardians of the Galaxy', 'Guardians of the Galaxy', 'Marvel\'s Guardians of the Galaxy',
 283761: 'Kingdom (2014)', 'Kingdom 2014',
 278125: 'NCIS: New Orleans', 'Navy CIS New Orleans', 'NCIS New Orleans',
+285824: 'K.C: Undercover', 'Disney K C Undercover', 'K C Undercover',

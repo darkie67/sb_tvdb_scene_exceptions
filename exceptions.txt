@@ -272,3 +272,4 @@
 278125: 'NCIS: New Orleans', 'Navy CIS New Orleans', 'NCIS New Orleans',
 285824: 'K.C: Undercover', 'Disney K C Undercover', 'K C Undercover',
 295642: 'The Player', 'The Player 2015',
+79356: 'Brotherhood', 'Brotherhood 2006',
